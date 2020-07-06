@@ -10,16 +10,146 @@ Collection of awesome software, libraries, documents, books, resources and cool 
   - [Network](#network)
     - [Web](#web)
   - [Operating Systems](#operating-systems)
-  - [Bug Bounty](#bug-bounty-tools)
+  - [Bug Bounty](#bug-bounty)
+    - [Bug Bounty Tools](#bug-bounty-tools)
+  - [Burp Suite](#burp-suite)
+    - [Burp Suite Payloads](#burp-suite-payloads)
   - [EBooks](#ebooks)
   - [Test your hacking skills](#test-your-hacking-skills)
+  - [Vulnerability Databases And Resources](#vulnerability-databases-and-resources)
   - [Other Awesome Lists](#other-awesome-lists)
   - [Contributing](#contributing)
 
 
 
 
+
+### Bug Bounty
+
+**What is bug bounty?**
+
+Identification and reporting of bugs and vulns in a responsible way.
+
+**What to study?**
+ 1. Internet, HTTP, TCP/IP
+ 2. Networking
+ 3. Command line
+ 4. Linux
+ 5. Web technologies, javascript, php, java
+ 6. Atleast 1 prog language (Python/C/JAVA/Ruby..)
+
+**Choose your path (Important)**
+ 1. Web pentesting
+ 2. Mobile pentesting
+ 3. Desktop apps
+
+**Resources** 
+
+*Web*
+
+- Web app hackers handbook
+- Web hacking 101
+- Hacker's playbook 1,2,3
+- Hacking art of exploitation
+- Mastering modern web pen testing
+- OWASP Testing guide
+
+*Mobile*
+
+- Mobile application hacker's handbooks
+
+ **Youtube channels**
+
+Hacking
+   1. Live Overflow
+   2. Hackersploit
+   3. Bugcrowd
+   4. Hak5
+   5. Hackerone
+
+Programming
+   1. thenewboston
+   2. codeacademy
+
+**Writeups, Articles, blogs**
+
+  1. Medium (infosec writeups)
+  2. Hackerone public reports
+  3. owasp.org
+  4. Portswigger
+  5. Reddit (Netsec)
+  6. DEFCON conference videos
+  7. Forums 
+
+**Practice (Important)**
+
+ 1. Tools
+  1. Burpsuite
+  2. nmap
+  3. dirbuster
+  4. sublist3r
+  5. Netcat
+
+**Testing labs**
+
+  1. DVWA
+  2. bWAPP
+  3. Vulnhub
+  4. Metasploitable
+  5. CTF365
+  6. Hack the box
+
+
+***Start!***
+
+Select a platform 
+  1. Hackerone
+  2. Bugcrowd
+  3. Open bug bounty
+  4. Zerocopter
+  5. Antihack
+  6. Synack (private)
+
+Choose wisely (first not for bounty)
+
+- Select a bug for hunt
+- Exhaustive search
+- Not straightforward always
+
+**REPORT:**
+
+ 5. Create a descriptive report
+ 6. Follow responsible disclosure
+ 7. Create POC and steps to reproduce
+
+**Words of wisdom**
+
+ 1. PATIENCE IS THE KEY, takes years to master, don't fall for overnight success
+ 2. Do not expect someone will spoon feed you everything.
+ 3. Confidence
+ 4. Not always for bounty
+ 5. Learn a lot
+ 6. Won't find at the beginning, don't lose hope
+ 7. Stay focused
+ 8. Depend on yourself
+ 9. Stay updated with infosec world
+
+
 ### Bug Bounty Tools
+
+**How to get started with Bug Bounty**
+
+https://medium.com/bugbountywriteup/how-to-get-started-into-bug-bounty-1be52b3064e0
+
+**Collection of various PoC helpful for Bug Bounty**
+
+https://drive.google.com/folderview?id=14zlqgin6rUfr6jQRBCLbbP8P8Vdypz7x
+
+***For Tips regarding Bug Bounty, you can check out:***
+[Book of Bounty Tips](https://gowsundar.gitbook.io/book-of-bugbounty-tips/)
+
+
+*Tools*
 
 [dnscan](https://github.com/rbsec/dnscan)
 
@@ -117,6 +247,39 @@ Collection of awesome software, libraries, documents, books, resources and cool 
 
 [Amass](https://github.com/OWASP/Amass)
 
+---
+
+### Burp Suite
+
+A collection of videos to understand the working of Burpsuite.
+
+[Burp Suite Fundamentals](https://www.youtube.com/playlist?list=PLNpPFYUlHmcVK--npOAVJBVnpYvDWOXma)
+
+---
+
+### Burp Suite Payloads
+
+A series of tutorials to understand Burpsuite Payloads and Payload Processing
+
+
+[Beginners Guide to Burpsuite Payloads (Part 1)](https://lnkd.in/g3yeUsi)
+
+[Beginners Guide to Burpsuite Payloads (Part 2)](https://lnkd.in/ggrmkeq)
+
+[Payload Processing Rule in Burp suite (Part 1)](https://Inkd.in/gN2-s7f)
+
+[Payload Processing Rule in Burp suite (Part 2)](https://Inkd.in/gjtTqs7)
+
+[Engagement Tools Tutorial in Burp suite](https://lnkd.in/gc7jxcd)
+
+---
+
+### EBooks
+
+Part of Z-Library project. The world's largest ebook library.
+[Zlibrary.Asia](https://b-ok.asia/)
+
+---
 
 ### Test your Hacking skills
 
@@ -150,8 +313,36 @@ Collection of awesome software, libraries, documents, books, resources and cool 
 
 [Try Hack Me](https://tryhackme.com/)
 
+---
+
+### Vulnerability Databases And Resources
+
+Vulnerability Databases are the first place to start your day as a security professional. Any new vulnerability detection is generally available through public vulnerability databases. These databases are a big source of information for hackers to be able to understand and exploit/avoid/fix the vulnerability. 
+
+Some Public Sources for you - 
 
 
+[Exploit-db](http://www.exploit-db.com/)
+
+[Vulners](http://securityvulns.com/)
+
+[Security Focus](http://www.securityfocus.com/)
+
+[SecuriTeam](http://www.securiteam.com/)
+
+[Secunia Research](http://secunia.com/advisories/)
+
+[Zero Day Initiative](http://zerodayinitiative.com/advisories/published/)
+
+[National Vulnerability Database](https://nvd.nist.gov)
+
+[CVE Details](http://cvedetails.com/)
+
+[Vulnerability & Exploit Database ](http://www.rapid7.com/vulndb/index.jsp)
+
+[Open Vulnerability and Assessment Language](http://oval.mitre.org)
+
+---
 
 ### Contributing
 
