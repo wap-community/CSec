@@ -11,17 +11,18 @@ Collection of awesome software, libraries, documents, books, resources and cool 
     - [Web](#web)
   - [Operating Systems](#operating-systems)
   - [Bug Bounty](#bug-bounty)
+    - [Beginner Resources](#beginner-resources)
     - [Bug Bounty Tools](#bug-bounty-tools)
+    - [Bug Bounty Cheatsheet](#bug-bounty-cheatsheet)
+    - [Bug Bounty Writeups](#bug-bounty-writeups)
   - [Burp Suite](#burp-suite)
     - [Burp Suite Payloads](#burp-suite-payloads)
   - [EBooks](#ebooks)
+  - [HTTP Status Codes](#http-status-codes)
   - [Test your hacking skills](#test-your-hacking-skills)
   - [Vulnerability Databases And Resources](#vulnerability-databases-and-resources)
   - [Other Awesome Lists](#other-awesome-lists)
   - [Contributing](#contributing)
-
-
-
 
 
 ### Bug Bounty
@@ -31,17 +32,17 @@ Collection of awesome software, libraries, documents, books, resources and cool 
 Identification and reporting of bugs and vulns in a responsible way.
 
 **What to study?**
- 1. Internet, HTTP, TCP/IP
- 2. Networking
- 3. Command line
- 4. Linux
- 5. Web technologies, javascript, php, java
- 6. Atleast 1 prog language (Python/C/JAVA/Ruby..)
+ - Internet, HTTP, TCP/IP
+ - Networking
+ - Command line
+ - Linux
+ - Web technologies, javascript, php, java
+ - Atleast 1 prog language (Python/C/JAVA/Ruby..)
 
 **Choose your path (Important)**
- 1. Web pentesting
- 2. Mobile pentesting
- 3. Desktop apps
+ - Web pentesting
+ - Mobile pentesting
+ - Desktop apps
 
 **Resources** 
 
@@ -61,54 +62,53 @@ Identification and reporting of bugs and vulns in a responsible way.
  **Youtube channels**
 
 Hacking
-   1. Live Overflow
-   2. Hackersploit
-   3. Bugcrowd
-   4. Hak5
-   5. Hackerone
+   - Live Overflow
+   - Hackersploit
+   - Bugcrowd
+   - Hak5
+   - Hackerone
 
 Programming
-   1. thenewboston
-   2. codeacademy
+   - thenewboston
+   - codeacademy
 
 **Writeups, Articles, blogs**
 
-  1. Medium (infosec writeups)
-  2. Hackerone public reports
-  3. owasp.org
-  4. Portswigger
-  5. Reddit (Netsec)
-  6. DEFCON conference videos
-  7. Forums 
+  - Medium (infosec writeups)
+  - Hackerone public reports
+  - owasp.org
+  - Portswigger
+  - Reddit (Netsec)
+  - DEFCON conference videos
+  - Forums 
 
 **Practice (Important)**
 
- 1. Tools
-  1. Burpsuite
-  2. nmap
-  3. dirbuster
-  4. sublist3r
-  5. Netcat
+  - Burpsuite
+  - nmap
+  - dirbuster
+  - sublist3r
+  - Netcat
 
 **Testing labs**
 
-  1. DVWA
-  2. bWAPP
-  3. Vulnhub
-  4. Metasploitable
-  5. CTF365
-  6. Hack the box
+  - DVWA
+  - bWAPP
+  - Vulnhub
+  - Metasploitable
+  - CTF365
+  - Hack the box
 
 
 ***Start!***
 
 Select a platform 
-  1. Hackerone
-  2. Bugcrowd
-  3. Open bug bounty
-  4. Zerocopter
-  5. Antihack
-  6. Synack (private)
+ - Hackerone
+ - Bugcrowd
+ - Open bug bounty
+ - Zerocopter
+ - Antihack
+ - Synack (private)
 
 Choose wisely (first not for bounty)
 
@@ -118,22 +118,46 @@ Choose wisely (first not for bounty)
 
 **REPORT:**
 
- 5. Create a descriptive report
- 6. Follow responsible disclosure
- 7. Create POC and steps to reproduce
+ - Create a descriptive report
+ - Follow responsible disclosure
+ - Create POC and steps to reproduce
 
 **Words of wisdom**
 
- 1. PATIENCE IS THE KEY, takes years to master, don't fall for overnight success
- 2. Do not expect someone will spoon feed you everything.
- 3. Confidence
- 4. Not always for bounty
- 5. Learn a lot
- 6. Won't find at the beginning, don't lose hope
- 7. Stay focused
- 8. Depend on yourself
- 9. Stay updated with infosec world
+ - PATIENCE IS THE KEY, takes years to master, don't fall for overnight success
+ - Do not expect someone will spoon feed you everything.
+ - Confidence
+ - Not always for bounty
+ - Learn a lot
+ - Won't find at the beginning, don't lose hope
+ - Stay focused
+ - Depend on yourself
+ - Stay updated with infosec world
 
+
+### Beginner Resources
+
+
+- [How to Become a Successful Bug Bounty Hunter](https://hackerone.com/blog/what-great-hackers-share)
+
+- [Researcher Resources - How to become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102)
+
+- [Bug Bounties 101](https://whitton.io/articles/bug-bounties-101-getting-started/)
+
+- [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter)
+
+- [Awsome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet)
+
+- [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology)
+
+
+### Bug Bounty Cheatsheet
+
+[A collection of recon workflow and details about Bug Bounty tools/cheatsheet](ihttps://docs.google.com/spreadsheets/u/0/d/1TxNrvaIMRS_dmupcwjwJmXtaFk_lPGE1LzgxPu_7KqA/htmlview#)
+
+### Bug Bounty Writeups
+
+[List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html)
 
 ### Bug Bounty Tools
 
@@ -278,6 +302,71 @@ A series of tutorials to understand Burpsuite Payloads and Payload Processing
 
 Part of Z-Library project. The world's largest ebook library.
 [Zlibrary.Asia](https://b-ok.asia/)
+
+---
+
+### HTTP Status Codes
+
+
+- 400 (Bad request)
+
+- 401 (Authorization required)
+
+- 402 (Payment required)
+
+- 403 (Forbidden)
+
+- 404 (Not found)
+
+- 405 (Method not allowed)
+
+- 406 (Not acceptable)
+
+- 407 (Proxy authentication required)
+
+- 408 (Request Timeout)
+
+- 409 (Conflict)
+
+- 410 (Gone)
+
+- 411 (Length required)
+
+- 412 (Precondition failed)
+
+- 413 (Request entity too large)
+
+- 414 (Request URI too large)
+
+- 415 (Unsupported media type)
+
+- 416 (Request range not satisfiable)
+
+- 417 (Expectation failed)
+
+- 422 (Unprocessable entity)
+
+- 423 (Locked)
+
+- 424 (Failed dependency)
+
+- 500 (Internal server error)
+
+- 501 (Not Implemented)
+
+- 502 (Bad gateway)
+
+- 503 (Service unavailable)
+
+- 504 (Gateway timeout)
+
+- 505 (HTTP version not supported)
+
+- 506 (Variant also negotiates)
+
+- 507 (Insufficient storage)
+
+- 510 (Not extended)
 
 ---
 
