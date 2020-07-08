@@ -61,14 +61,14 @@ Identification and reporting of bugs and vulns in a responsible way.
 
  **Youtube channels**
 
-Hacking
+*Hacking*
    - Live Overflow
    - Hackersploit
    - Bugcrowd
    - Hak5
    - Hackerone
 
-Programming
+*Programming*
    - thenewboston
    - codeacademy
 
@@ -102,7 +102,7 @@ Programming
 
 ***Start!***
 
-Select a platform 
+*Select a platform*
  - Hackerone
  - Bugcrowd
  - Open bug bounty
@@ -110,7 +110,7 @@ Select a platform
  - Antihack
  - Synack (private)
 
-Choose wisely (first not for bounty)
+*Choose wisely (first not for bounty)*
 
 - Select a bug for hunt
 - Exhaustive search
@@ -463,6 +463,8 @@ Part of Z-Library project. The world's largest ebook library.
 [SANS Challenger](https://www.holidayhackchallenge.com/)
 
 [SmashTheStack](http://smashthestack.org/wargames.html)
+
+
 ---
 
 ### Vulnerability Databases And Resources
