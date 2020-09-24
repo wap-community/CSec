@@ -29,7 +29,7 @@ Collection of awesome software, libraries, documents, books, resources and cool 
 
 **What is bug bounty?**
 
-Identification and reporting of bugs and vulns in a responsible way.
+Identification and reporting of bugs and vulnerabilities in a responsible way.
 
 **What to study?**
  - Internet, HTTP, TCP/IP
@@ -100,7 +100,7 @@ Identification and reporting of bugs and vulns in a responsible way.
   - Hack the box
 
 
-***Start!***
+#### Start
 
 *Select a platform*
  - Hackerone
@@ -271,15 +271,11 @@ https://drive.google.com/folderview?id=14zlqgin6rUfr6jQRBCLbbP8P8Vdypz7x
 
 [Amass](https://github.com/OWASP/Amass)
 
----
-
 ### Burp Suite
 
 A collection of videos to understand the working of Burpsuite.
 
 [Burp Suite Fundamentals](https://www.youtube.com/playlist?list=PLNpPFYUlHmcVK--npOAVJBVnpYvDWOXma)
-
----
 
 ### Burp Suite Payloads
 
@@ -296,176 +292,91 @@ A series of tutorials to understand Burpsuite Payloads and Payload Processing
 
 [Engagement Tools Tutorial in Burp suite](https://lnkd.in/gc7jxcd)
 
----
-
 ### EBooks
 
 Part of Z-Library project. The world's largest ebook library.
 [Zlibrary.Asia](https://b-ok.asia/)
 
----
-
 ### HTTP Status Codes
 
-
 - 400 (Bad request)
-
 - 401 (Authorization required)
-
 - 402 (Payment required)
-
 - 403 (Forbidden)
-
 - 404 (Not found)
-
 - 405 (Method not allowed)
-
 - 406 (Not acceptable)
-
 - 407 (Proxy authentication required)
-
 - 408 (Request Timeout)
-
 - 409 (Conflict)
-
 - 410 (Gone)
-
 - 411 (Length required)
-
 - 412 (Precondition failed)
-
 - 413 (Request entity too large)
-
 - 414 (Request URI too large)
-
 - 415 (Unsupported media type)
-
 - 416 (Request range not satisfiable)
-
 - 417 (Expectation failed)
-
 - 422 (Unprocessable entity)
-
 - 423 (Locked)
-
 - 424 (Failed dependency)
-
 - 500 (Internal server error)
-
 - 501 (Not Implemented)
-
 - 502 (Bad gateway)
-
 - 503 (Service unavailable)
-
 - 504 (Gateway timeout)
-
 - 505 (HTTP version not supported)
-
 - 506 (Variant also negotiates)
-
 - 507 (Insufficient storage)
-
 - 510 (Not extended)
-
----
 
 ### Test your Hacking skills
 
-[Pwnable.kr](https://pwnable.kr/)
-
-[hack.me](https://hack.me/)
-
-[CTFlearn](https://ctflearn.com/)
-
-[Web Application Exploits and Defenses ](https://google-gruyere.appspot.com/)
-
-[RootMe](https://www.root-me.org/en/)
-
-[HackTheBox](https://www.hackthebox.eu/)
-
-[Game of Hacks](http://www.gameofhacks.com/)
-
-[OverTheWire](https://overthewire.org/)
-
-[Microcorruption](https://microcorruption.com/)
-
-[XSS Challenges](https://xss-game.appspot.com/?utm_source...dium=email)
-
-[Hack This Site](https://www.hackthissite.org/pages/index/index.php)
-
-[crackmes.one](https://crackmes.one/)
-
-[Pentest Training](https://pentest.training/)
-
-[This is Legal](https://thisislegal.com/)
-
-[Try Hack Me](https://tryhackme.com/)
-
-[Vulnhub](https://www.vulnhub.com)
-
-[Practical Pentest Labs](https://practicalpentestlabs.com)
-
-[Labs Wizard Security](https://labs.wizard-security.net)
-
-[Pentestlab](https://pentesterlab.com/)
-
-[Hackthis](https://www.hackthis.co.uk)
-
-[Shellter](https://shellterlabs.com/pt/)
-
-[Root-Me](https://www.root-me.org/)
-
-[Zenk-Security](https://www.zenk-security.com/epreuves.php)
-
-[W3Challs](https://w3challs.com/)
-
-[NewbieContest](https://www.newbiecontest.org/)
-
-[The Cryptopals Crypto Challenges](https://cryptopals.com/)
-
-[Penetration Testing Practice Labs](http://www.amanhardikar.com/mindmaps/Practice.html)
-
-[alert(1) to win](https://alf.nu/alert1)
-
-[Hacksplaining](https://www.hacksplaining.com/exercises)
-
-[Hacker101](https://ctf.hacker101.com)
-
-[Academy Hackaflag](https://academy.hackaflag.com.br/)
-
-[PentestIT LAB](https://lab.pentestit.ru)
-
-[Hacker Security](https://capturetheflag.com.br/)
-
-[PicoCTF](https://picoctf.com)
-
-[Explotation Education](https://exploit.education/)
-
-[Root in Jail](http://ctf.rootinjail.com)
-
-[CMD Challenge](https://cmdchallenge.com)
-
-[Try Hack Me](https://tryhackme.com/)
-
-[Hacking-Lab](https://www.hacking-lab.com/index.html)
-
-[PWNABLE](https://pwnable.kr/play.php)
-
-[WHO4REYOU](https://34.73.111.210)
-
-[Google CTF](https://capturetheflag.withgoogle.com/)
-
-[ImmersiveLabs](https://immersivelabs.com/)
-
-[Attack-Defense](https://attackdefense.com/)
-
-[SANS Challenger](https://www.holidayhackchallenge.com/)
-
-[SmashTheStack](http://smashthestack.org/wargames.html)
-
-
----
+- [Pwnable.kr](https://pwnable.kr/)
+- [hack.me](https://hack.me/)
+- [CTFlearn](https://ctflearn.com/)
+- [Web Application Exploits and Defenses ](https://google-gruyere.appspot.com/)
+- [RootMe](https://www.root-me.org/en/)
+- [HackTheBox](https://www.hackthebox.eu/)
+- [Game of Hacks](http://www.gameofhacks.com/)
+- [OverTheWire](https://overthewire.org/)
+- [Microcorruption](https://microcorruption.com/)
+- [XSS Challenges](https://xss-game.appspot.com/?utm_source...dium=email)
+- [Hack This Site](https://www.hackthissite.org/pages/index/index.php)
+- [crackmes.one](https://crackmes.one/)
+- [Pentest Training](https://pentest.training/)
+- [This is Legal](https://thisislegal.com/)
+- [Try Hack Me](https://tryhackme.com/)
+- [Vulnhub](https://www.vulnhub.com)
+- [Practical Pentest Labs](https://practicalpentestlabs.com)
+- [Labs Wizard Security](https://labs.wizard-security.net)
+- [Pentestlab](https://pentesterlab.com/)
+- [Hackthis](https://www.hackthis.co.uk)
+- [Shellter](https://shellterlabs.com/pt/)
+- [Root-Me](https://www.root-me.org/)
+- [Zenk-Security](https://www.zenk-security.com/epreuves.php)
+- [W3Challs](https://w3challs.com/)
+- [NewbieContest](https://www.newbiecontest.org/)
+- [The Cryptopals Crypto Challenges](https://cryptopals.com/)
+- [Penetration Testing Practice Labs](http://www.amanhardikar.com/mindmaps/Practice.html)
+- [alert(1) to win](https://alf.nu/alert1)
+- [Hacksplaining](https://www.hacksplaining.com/exercises)
+- [Hacker101](https://ctf.hacker101.com)
+- [Academy Hackaflag](https://academy.hackaflag.com.br/)
+- [PentestIT LAB](https://lab.pentestit.ru)
+- [Hacker Security](https://capturetheflag.com.br/)
+- [PicoCTF](https://picoctf.com)
+- [Explotation Education](https://exploit.education/)
+- [Root in Jail](http://ctf.rootinjail.com)
+- [CMD Challenge](https://cmdchallenge.com)
+- [Hacking-Lab](https://www.hacking-lab.com/index.html)
+- [PWNABLE](https://pwnable.kr/play.php)
+- [WHO4REYOU](https://34.73.111.210)
+- [Google CTF](https://capturetheflag.withgoogle.com/)
+- [ImmersiveLabs](https://immersivelabs.com/)
+- [Attack-Defense](https://attackdefense.com/)
+- [SANS Challenger](https://www.holidayhackchallenge.com/)
+- [SmashTheStack](http://smashthestack.org/wargames.html)
 
 ### Vulnerability Databases And Resources
 
@@ -474,25 +385,16 @@ Vulnerability Databases are the first place to start your day as a security prof
 Some Public Sources for you - 
 
 
-[Exploit-db](http://www.exploit-db.com/)
-
-[Vulners](http://securityvulns.com/)
-
-[Security Focus](http://www.securityfocus.com/)
-
-[SecuriTeam](http://www.securiteam.com/)
-
-[Secunia Research](http://secunia.com/advisories/)
-
-[Zero Day Initiative](http://zerodayinitiative.com/advisories/published/)
-
-[National Vulnerability Database](https://nvd.nist.gov)
-
-[CVE Details](http://cvedetails.com/)
-
-[Vulnerability & Exploit Database ](http://www.rapid7.com/vulndb/index.jsp)
-
-[Open Vulnerability and Assessment Language](http://oval.mitre.org)
+- [Exploit-db](http://www.exploit-db.com/)
+- [Vulners](http://securityvulns.com/)
+- [Security Focus](http://www.securityfocus.com/)
+- [SecuriTeam](http://www.securiteam.com/)
+- [Secunia Research](http://secunia.com/advisories/)
+- [Zero Day Initiative](http://zerodayinitiative.com/advisories/published/)
+- [National Vulnerability Database](https://nvd.nist.gov)
+- [CVE Details](http://cvedetails.com/)
+- [Vulnerability & Exploit Database ](http://www.rapid7.com/vulndb/index.jsp)
+- [Open Vulnerability and Assessment Language](http://oval.mitre.org)
 
 ---
 
@@ -500,7 +402,7 @@ Some Public Sources for you -
 
 Read how to [contribute to CSec](contributing.md).
 
-## License
+### License
 
 ```
 MIT License
